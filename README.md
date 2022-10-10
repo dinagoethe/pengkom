@@ -14,7 +14,7 @@
 
 ## Praktikum
 1. [P01 (26/09/2022)](https://github.com/dinagoethe/dinagoethe.github.io/blob/master/pk/praktek1.md)
-2. [P02 (10/10/2022)]()
+2. [P02 (10/10/2022)](https://github.com/dinagoethe/pengkom/blob/main/praktikum/P02.md)
 
 ## Tugas Besar
 1. [Detail]()

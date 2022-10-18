@@ -8,6 +8,7 @@
 #### Python
 1. [TP01_PY -- deadline 16/09/22 21.00 WIB](https://drive.google.com/file/d/10EpGvNo2cfC0MxfcRSRl_f-FlPASFt72/view?usp=drivesdk)
 2. [TP02_PY -- deadline 07/10/22 21.00 WIB](https://drive.google.com/file/d/1PmydGRV4gJYR3sxr4kXKiZBVkQI9a-Kl/view?usp=sharing)
+3. [TP03_PY -- deadline 21/10/22 21.00 WIB](https://drive.google.com/file/d/1poYRkKv6eBaiVg6jkgMxPcD8QuDpaIAt/view?usp=sharing)
 
 #### Matlab
 1. [Matlab -- khusus FTMD](https://drive.google.com/file/d/10EizsK63e9LO7HpRqq4Fo8GoS7DJBW-S/view?usp=drivesdk)

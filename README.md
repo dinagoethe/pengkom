@@ -5,7 +5,7 @@
 2. [Modul Matlab](https://drive.google.com/file/d/10JNcnq57Zb8H33Mbrw-2kc5EG79fDAle/view?usp=drivesdk)
 
 ## TUGAS KELAS (6 Soal)
-1. [Array](https://drive.google.com/file/d/1CFKugUNyo6HHc0MGve69U930PvDiaOLo/view?usp=sharing)
+1. [Array -- deadline 25/10/22](https://drive.google.com/file/d/1CFKugUNyo6HHc0MGve69U930PvDiaOLo/view?usp=sharing)
 
 ## Tugas pendahuluan
 #### Python

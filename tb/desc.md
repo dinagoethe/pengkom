@@ -2,20 +2,26 @@ Kelompok
 
 Memilih sistem/aplikasi/mesin : Lampu lalu lintas
 
+# Tugas Besar Pengkom 2022
+`Topik : Program Lampu Lalu Lintas`
+
 ## Tugas 1 (Idea and Storyboard)
-1. Deskripsi cara kerja sistem
+1. Deskripsi cara kerja sistem:
+    Lampu Lalu lintas dalam kehidupan sehari-hari bekerja dengan cara 
 2. Dekomposisi masalah
 
-## Tugas 2 (Algoritma)
+## Tugas 2 (Algorithm)
 1. Meracang simulasi
 2. Deskripsi simulasi :
   - Input
   - Proses
   - Output
-3. Membuat pseudocode/flowchart
-Note : Harus menggambarkan interaksi dengan penggunananya.
+3. [Membuat pseudocode/flowchart](https://www.canva.com/design/DAFP8Je7IUQ/MF9jwJDrvKVfDQKeBKJJEg/edit?utm_content=DAFP8Je7IUQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Tugas 3 (Menulis Program)
+
+`Note : Harus menggambarkan interaksi dengan penggunananya.`
+
+## [Tugas 3 (Write the Program)](https://github.com/dinagoethe/pengkom/blob/main/tb/pseudo.md)
 1. Membuat program dalam bahasa pemrograman
 2. Isi program :
   - Sekuens
@@ -24,7 +30,7 @@ Note : Harus menggambarkan interaksi dengan penggunananya.
   - *Array
   - Matriks (opsional)
 
-## Membuat Laporan
+## [Membuat Laporan](https://docs.google.com/document/d/162qz4ARqS0ToEBvyAc_kFwLQCI30CV8v88p6puHqjhE/edit?usp=sharing)
 1. Laporan
 2. *Sumber code program
 3. File ppt/video presentasi (video maks 10 menit)
@@ -56,7 +62,7 @@ Note : Harus menggambarkan interaksi dengan penggunananya.
 |4| Fatimah Az-Zahra | 16622277 | |
 |5| Vindira Kayla Pualani | 16622297 | |
 
-6. Daftar referensi
+6. [Daftar referensi](https://github.com/dinagoethe/pengkom/blob/main/tb/source.md)
 source : *source code program* dikumpulkan terpisah
 
 #### Tanggal
@@ -66,5 +72,4 @@ source : *source code program* dikumpulkan terpisah
   - Laporan dan *source coce* dimasukkan dalam 1 folder
   - Nama folder : KU1102_nomor kelas_nomor kelompok
   - Zip folder
-  - (Link pengumpulan)[]
-  - 
+  - [Link pengumpulan (belum ada)](https://google.com)

@@ -1,16 +1,19 @@
-Kelompok 
-
-Memilih sistem/aplikasi/mesin : Lampu lalu lintas
-
 # Tugas Besar Pengkom 2022
 `Topik : Program Lampu Lalu Lintas`
 
 ## Tugas 1 (Idea and Storyboard)
-1. Deskripsi cara kerja sistem:
-    Lampu Lalu lintas dalam kehidupan sehari-hari bekerja dengan cara 
+1. Deskripsi cara kerja sistem
 2. Dekomposisi masalah
 
-## Tugas 2 (Algorithm)
+| Masalah | Penyelesaian |
+| ------- | ------------ |
+| Pergantian nyala lampu setiap persimpangan | |
+| Kondisi kendaraan pada setiap nyala lampu | bisa menggunakan if |
+| Lama lampu menyala | |
+| Agar lampu lalin tetap berjalan terus | bisa menggunakan looping |
+| dst | |
+
+## [Tugas 2 (Algorithm)](https://www.canva.com/design/DAFP8Je7IUQ/MF9jwJDrvKVfDQKeBKJJEg/edit?utm_content=DAFP8Je7IUQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 1. Meracang simulasi
 2. Deskripsi simulasi :
   - Input
@@ -63,7 +66,7 @@ Memilih sistem/aplikasi/mesin : Lampu lalu lintas
 |5| Vindira Kayla Pualani | 16622297 | |
 
 6. [Daftar referensi](https://github.com/dinagoethe/pengkom/blob/main/tb/source.md)
-source : *source code program* dikumpulkan terpisah
+7. *source code program* dikumpulkan terpisah
 
 #### Tanggal
 1. Presentasi : Minggu ke-11 pada jam kuliah

@@ -6,7 +6,7 @@ Memilih sistem/aplikasi/mesin : Lampu lalu lintas
 1. Deskripsi cara kerja sistem
 2. Dekomposisi masalah
 
-## Tugas 2 (Algorithm)
+## Tugas 2 (Algoritma)
 1. Meracang simulasi
 2. Deskripsi simulasi :
   - Input
@@ -15,7 +15,7 @@ Memilih sistem/aplikasi/mesin : Lampu lalu lintas
 3. Membuat pseudocode/flowchart
 Note : Harus menggambarkan interaksi dengan penggunananya.
 
-## Tugas 3 (
+## Tugas 3 (Menulis Program)
 1. Membuat program dalam bahasa pemrograman
 2. Isi program :
   - Sekuens
@@ -24,7 +24,7 @@ Note : Harus menggambarkan interaksi dengan penggunananya.
   - *Array
   - Matriks (opsional)
 
-## Deliverable
+## Membuat Laporan
 1. Laporan
 2. *Sumber code program
 3. File ppt/video presentasi (video maks 10 menit)
@@ -37,17 +37,25 @@ Note : Harus menggambarkan interaksi dengan penggunananya.
 
 #### Isi Laporan
 1. Sampul :
+
 | Kode Mata kuliah | KU11 |
-|-----|-----|
-| Judul tugas | Program Lampu Lalu Lintas
-| Anggota | 1. 2. 3. 4. 5.
+| ---------------- | ---- |
+| Judul tugas | Program Lampu Lalu Lintas |
+| Anggota | 1. 2. 3. 4. 5. |
 
 2. Daftar isi
 3. Laporan inti (tugas 1, tugas 2, tugas 3)
 4. Kesimpulan dan *lesson learned
 5. Pembagian tugas dalam kelompok
-  - aa
-  - aa
+
+| No. | Nama | NIM | Tugas |
+| --- | ---- | --- | ----- |
+|1| Melviza Tsabita Maharani |166222147| |
+|2| Alika Nandina | 16622162 | |
+|3| Siti Ramadina G.K. | 16622212 | |
+|4| Fatimah Az-Zahra | 16622277 | |
+|5| Vindira Kayla Pualani | 16622297 | |
+
 6. Daftar referensi
 source : *source code program* dikumpulkan terpisah
 
@@ -60,9 +68,3 @@ source : *source code program* dikumpulkan terpisah
   - Zip folder
   - (Link pengumpulan)[]
   - 
-
-
-
-
-
-

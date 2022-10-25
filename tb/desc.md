@@ -12,7 +12,7 @@
 | Lama lampu menyala, hitung mundur | menggunakan *countdown* | *pseudocode* | [How To Create a Countdown Timer Using Python?](https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/) |
 | Agar lampu lalin tetap berjalan terus | menggunakan looping | *flowchart* | [Ref](https://github.com/dinagoethe/pengkom/blob/main/tb/source.md); [Traffic light program using while loop in python](https://stackoverflow.com/questions/48197670/traffic-light-program-using-while-loop-in-python) |
 
-# [Kesepakatan Variabel]()
+### [Kesepakatan Variabel](https://github.com/dinagoethe/pengkom/blob/main/tb/var.md)
 Setiap anggota dalam membuat bagan dan program .py harus menggunakan variabel yang sesuai dengan kesepakatan. Apabila ada tambahan variabel dapat memberi tahu kepada anggota yang lain dan memberti keterangan variabel baru yang bersangkutan.
 
 ## [Tugas 2 (Algorithm)](https://www.canva.com/design/DAFP8Je7IUQ/MF9jwJDrvKVfDQKeBKJJEg/edit?utm_content=DAFP8Je7IUQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -21,7 +21,7 @@ Setiap anggota dalam membuat bagan dan program .py harus menggunakan variabel ya
   - Input
   - Proses
   - Output
-3. [Membuat pseudocode/flowchart](https://www.canva.com/design/DAFP8Je7IUQ/MF9jwJDrvKVfDQKeBKJJEg/edit?utm_content=DAFP8Je7IUQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+3. Membuat pseudocode/flowchart
 
 
 `Note : Harus menggambarkan interaksi dengan penggunananya.`
@@ -62,10 +62,10 @@ Setiap anggota dalam membuat bagan dan program .py harus menggunakan variabel ya
 | No. | Nama | NIM | Tugas |
 | --- | ---- | --- | ----- |
 |1| Melviza Tsabita Maharani |166222147| |
-|2| Alika Nandina | 16622162 | |
-|3| Siti Ramadina G.K. | 16622212 | |
+|2| Alika Nandina | 16622162 | 3,7 |
+|3| Siti Ramadina G.K. | 16622212 | 0,1,2,8 |
 |4| Fatimah Az-Zahra | 16622277 | |
-|5| Vindira Kayla Pualani | 16622297 | |
+|5| Vindira Kayla Pualani | 16622297 | 3,7 |
 
 6. [Daftar referensi](https://github.com/dinagoethe/pengkom/blob/main/tb/source.md)
 7. *source code program* dikumpulkan terpisah

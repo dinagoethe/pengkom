@@ -55,7 +55,7 @@
 2. Daftar isi
 3. Laporan inti (tugas 1, tugas 2, tugas 3)
 4. Kesimpulan dan *lesson learned
-5. Pembagian tugas dalam kelompok
+5. [Pembagian tugas dalam kelompok](https://github.com/dinagoethe/pengkom/blob/main/tb/jobdesc.md)
 
 | No. | Nama | NIM | Tugas |
 | --- | ---- | --- | ----- |

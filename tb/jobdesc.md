@@ -12,7 +12,7 @@ Keterangan kebutuhan anggota :
 **Tugas** :
 
 ### 1. Ide dan *Storyboard* (*) `SR`
-**Deskripsi** : 
+**Deskripsi** : Menjelaskan secara singkat 
 **Tugas** : 
 
 ### Dekomposisi Masalah (**) `SR`
@@ -36,27 +36,33 @@ Keterangan kebutuhan anggota :
 - Membagi *pseudocode* menjadi beberapa bagian file.
 - Menggabungkan *pseudocode*.
 
-### Coding (**)
+### Coding (***)
 **Deskripsi** : Pengaplikasian diagram alur proses (*flowchart* dan *psedocode*) ke bahasa pemrograman python.
 **Tugas**
-- Menulis coding 
+- Menulis coding secara terpisah terlebih dahulu untuk mempermudah pengecekan jika ada kode yang error.
+- [Syarat]() : penulisan variabel harus disepakati agar tidak membingungkan teman yang lain ketika membuat koding.
+- Menggabungkan semua bagian koding yang terpisah dalam satu file.py setelah semua bagian berhasil dijalankan.
+
+### Laporan Akhir (**)
+**Deskripsi** : Menulis laporan berdasarkan [format penulisan](https://github.com/dinagoethe/pengkom/blob/main/tb/desc.md)
+**Tugas**
+- Menulis laporan runut
+- Memperbaiki layout laporan 
+
+### Presentasi (**)
+**Deskripsi** : 
+**Tugas**
+- Isi ppt berdasarkan laporan akhir
+- Desain layout ppt
+
+### Finishing (**)
+**Deskripsi**
+**Tugas**
+- Pengumpulan tugas
+- Pengarsipan (di github aja biar terpusat)
 
 ### 
 **Deskripsi**
 **Tugas**
 
-
-### 
-**Deskripsi**
-**Tugas**
-
-
-### 
-**Deskripsi**
-**Tugas**
-
-
-### 
-**Deskripsi**
-**Tugas**
 

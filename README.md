@@ -22,4 +22,4 @@
 3. [P03 (24/10/2022)](https://github.com/dinagoethe/pengkom/blob/main/praktikum/p03.md)
 
 ## Tugas Besar
-1. [Detail]()
+1. [Detail](https://github.com/dinagoethe/pengkom/blob/main/tb/desc.md)

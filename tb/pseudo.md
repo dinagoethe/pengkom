@@ -1,5 +1,5 @@
 ```
-Program Lampu Lalu Lintas akan ditulis di sini
+Program Lampu Lalu Lintas 1 ruas jalan
 
 import time
 
@@ -7,14 +7,12 @@ import time
 on = 1
 off = 0
 """
-N = 3
 R1 = int(input("Nyala lampu merah: "))
-
 
 while R1 >= 0:
     if R1 == 1:
         # Untuk lampu merah
-        print("setop cuy lagi merah")
+        print("setop")
         for r in range(3,0,-1):
             print(r)
             time.sleep(1)
@@ -25,17 +23,17 @@ while R1 >= 0:
             print(y)
             time.sleep(1)
         
-        print("jalan woi dah ijo!")
+        print("jalan")
 
             # Untuk lampu hijau
         for g in range(3,0,-1):
             print(g)
             time.sleep(1)
         
-        break
+        break #klo ga ada ini jalan terus
 
     else: 
-        print("jalan woi dah ijo!")
+        print("jalan")
 
             # Untuk lampu hijau
         for g in range(5,0,-1):
@@ -46,7 +44,6 @@ while R1 >= 0:
             print(y)
             time.sleep(1)
         
-        print("jalan woi dah ijo!")
 
         print("setop cuy lagi merah")
         for r in range(5,0,-1):

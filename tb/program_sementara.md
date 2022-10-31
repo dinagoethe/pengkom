@@ -20,14 +20,13 @@ def RedGreen(R1, G1):
 
 def Yellow(Y1):
     for i in range(T):
-            print(i)
+        print(i)
     time.sleep(1)
 ```
 
 #### 3. Memasukkan input
 ```
-R1 = int(input("Masukkan nyala lampu merah"))
-G1 = int(input("Masukkan nyala lampu hijau"))
+R1 = int(input("Masukkan nyala lampu merah: "))
 ```
 
 **Keterangan:** 
@@ -35,8 +34,9 @@ G1 = int(input("Masukkan nyala lampu hijau"))
 - OFF = 0
 
 #### 4. Kondisi lampu dan kendaraan
+Program utama memanggil subprogram sebelumnya.
 ```
-     if R1 == 1:
+     if R1 == 1: # Jika yang nyala dari merah dulu
         # lampu merah
         print("Berhenti")
         RedGreen(R1, G1)
@@ -49,7 +49,7 @@ G1 = int(input("Masukkan nyala lampu hijau"))
         # lampu hijau
         RedGreen()
         
-    else: 
+     if R1 == 0: # Jika yang nyala dari hijau dulu
        # lampu hijau
         print("Jalan!")
         RedGreen()

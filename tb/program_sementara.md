@@ -69,3 +69,48 @@ while R1 >= 0
   do bagian 4 (males nyalin lagi :v)
 ```
 
+### Progress 9:42
+```
+import time
+
+N = 5
+T = [i for i in range(N, 0, -1)]
+
+n = 3
+t = [i for i in range(n, 0, -1)]
+
+def lampu(L):
+    if L == 1:
+        print("Jalan!")
+    elif L == 0:
+        print("Berhenti")
+
+def siap(L):
+    print("Siap-siap")
+    for i in t:
+        print(i)
+        time.sleep(1)
+
+print("Kondisi lampu:")
+print("ON = 1")
+print("OFF = 0")
+G1 = int(input("Kondisi lampu hijau? "))
+
+while G1>= 0:
+    lampu(G1)
+    for i in T: 
+        print(i)
+        time.sleep(1)
+    
+    print("Bentar lagi lampu merah...!")
+    for i in t:
+        print(i)
+        time.sleep(1)
+
+    print("Berhenti!")
+    for i in T: 
+        print(i)
+        time.sleep(1)
+
+    siap(G1)
+  ```

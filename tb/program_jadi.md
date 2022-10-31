@@ -9,17 +9,16 @@ Program jadi yang memuat:
 ```
 import time
 
-N = 3
+N = 60
 T = [i for i in range(N, 0, -1)]
 
 n = 3
 t = [i for i in range(n, 0, -1)]
 
 def lampu(L):
-    if L == 1:
-        print("Jalan!")
-    elif L == 0:
-        print("Berhenti")
+    for i in T: 
+            print(i)
+            time.sleep(1)
 
 def siapHijau(L):
     print("Siap-siap lampu hijau..")
@@ -38,32 +37,20 @@ print("ON = 1")
 print("OFF = 0")
 G1 = int(input("Kondisi lampu hijau? "))
 
-while G1>= 0:
+while G1 >= 0:
     if G1 == 1:
+        print("Jalan!")
         lampu(G1)
-        for i in T: 
-            print(i)
-            time.sleep(1)
-        
-        
+        siapMerah(G1)
         print("Berhenti!")
-        for i in T: 
-            print(i)
-            time.sleep(1)
-
-        
-    if G1 == 0:
         lampu(G1)
-        for i in T: 
-            print(i)
-            time.sleep(1)
-        
         siapHijau(G1)
 
+    if G1 == 0:
+        print("Berhenti")
+        lampu(G1)
+        siapHijau(G1)
         print("Jalan!")
-        for i in T: 
-            print(i)
-            time.sleep(1)
-        
+        lampu(G1)
         siapMerah(G1)
 ```

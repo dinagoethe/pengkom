@@ -1,4 +1,4 @@
-Alur program:
+### Alur program:
 1. Mendefinisikan array dari waktu:
     - lampu merah/hijau: T = [60,59,58,...0]
     - lampu kuning: t = [3,2,1]
@@ -37,7 +37,7 @@ Yellow()
 
 ```
 
-Output program: 
+### Output program: 
     ```
     # jika lampu hijau nyala (lampu merah mati)
     if R1 == 1:
@@ -100,6 +100,8 @@ Output program:
     - looping if else akan terus dilakukan
 
 
+
+### Potongan program
 ```
 Program Lampu Lalu Lintas 1 ruas jalan
 

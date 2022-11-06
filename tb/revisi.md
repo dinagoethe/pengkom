@@ -43,9 +43,9 @@ Pemisahan program perlu dilakukan agar memudahkan penulisan program:
 | | Fungsi lampu lalin | | 
 | | Dekomposisi Masalah | |
 | | Flowchart | |
-| | Program Bagian 1 (Penyebrangan pada 1 ruas jalan) | |
+| | Program Bagian 1 (penyebrangan pada 1 ruas jalan) | |
 | | Simulasi Bagian 1 | |
-| | Program Bagian 2 | |
+| | Program Bagian 2 (persimpangan) | |
 | | Simulasi Bagian 2 | |
 | | Kesimpulan | |
 | | *Lesson Learned* atau kesan pesan | semua |

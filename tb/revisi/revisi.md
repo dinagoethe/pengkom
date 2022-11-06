@@ -39,17 +39,17 @@ Pemisahan program perlu dilakukan agar memudahkan penulisan program:
 ## Pembagian Tugas Presentasi Video
 | Slide | Materi | Presenter |
 | ----- | ------ | --------- |
-| | Intro | |
+| | Intro | `SR` |
 | | Perkenalan | semua |
 | | Latar Belakang | |
 | | Tujuan | | 
-| | Fungsi lampu lalin | | 
-| | Dekomposisi Masalah | |
+| | Fungsi lampu lalin | `FA` | 
+| | Dekomposisi Masalah | `SR` |
 | | Flowchart | |
-| | Program Bagian 1 (penyebrangan pada 1 ruas jalan) | |
-| | Simulasi Bagian 1 | |
-| | Program Bagian 2 (persimpangan) | |
-| | Simulasi Bagian 2 | |
+| | Program Bagian 1 (penyebrangan pada 1 ruas jalan) | `SR` |
+| | Simulasi Bagian 1 | `SR` |
+| | Program Bagian 2 (persimpangan) | `SR` |
+| | Simulasi Bagian 2 | `SR` |
 | | Kesimpulan | |
 | | *Lesson Learned* atau kesan pesan | semua |
-| | Outro | |
+| | Outro | `SR` |

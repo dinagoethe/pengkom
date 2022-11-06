@@ -1,6 +1,6 @@
 # Revisi Tugas Besar Pengkom
 
-Dari hasil presentasi kelompok kami tanggal `1/11/2022`, terdapat beberapa masukkan dari dosen untuk merevisi program kami. 
+Dari hasil presentasi kelompok kami tanggal `01/11/2022, 15.30 WIB`, terdapat beberapa masukkan dari dosen untuk merevisi program kami. 
 Program lampu lalu lintas kami perlu ditambahkan masalah yang lebih kompleks seperti hal-hal sebagai berikut:
 1. Persimpangan 4 ruas jalan
 2. Lampu giliran penyebrangan untuk pejalan kaki
@@ -8,8 +8,11 @@ Program lampu lalu lintas kami perlu ditambahkan masalah yang lebih kompleks sep
 4. Mendeteksi kemacetan (ini sudah diluar kemampuan lampu lalin, sudah masuknya program lain yang membutuhkan sensor)
 
 Pemisahan program perlu dilakukan agar memudahkan penulisan program: 
-**1. Fase 1:** Satu ruas jalan (done, [source code](https://github.com/dinagoethe/pengkom/blob/main/tb/program_jadi.md))
-**2. Fase 2:** Penyebrangan pejalan kaki (done, [source code](https://github.com/dinagoethe/pengkom/blob/main/tb/revisi/programjadi_penyebrangan.md))
+
+**1. Fase 1:** Satu ruas jalan (**done**, [source code](https://github.com/dinagoethe/pengkom/blob/main/tb/program_jadi.md))
+
+**2. Fase 2:** Penyebrangan pejalan kaki (**done**, [source code](https://github.com/dinagoethe/pengkom/blob/main/tb/revisi/programjadi_penyebrangan.md))
+
 **3. Fase 3:** Persimpangan
 
 ## Deskripsi dan alur masalah baru:

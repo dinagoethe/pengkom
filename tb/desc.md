@@ -6,13 +6,6 @@
 1. Deskripsi cara kerja sistem
 2. Dekomposisi masalah
 
-| Masalah | Ide Penyelesaian | Pemilihan diagram alur | Referensi |
-| ------- | ---------------- | ---------------------- | --------- |
-| Pergantian nyala lampu setiap persimpangan | menggunakan matriks (array). Matriks 4x3 untuk setiap ruas jalan. | *psedocode* | [Python-Matrix](https://www.tutorialspoint.com/python_data_structure/python_matrix.htm)
-| Kondisi kendaraan pada setiap nyala lampu | menggunakan *if conditional* | *flowchart* | |
-| Lama lampu menyala, hitung mundur | menggunakan *countdown* | *pseudocode* | [How To Create a Countdown Timer Using Python?](https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/) |
-| Agar lampu lalin tetap berjalan terus | menggunakan looping | *flowchart* | [Ref](https://github.com/dinagoethe/pengkom/blob/main/tb/source.md); [Traffic light program using while loop in python](https://stackoverflow.com/questions/48197670/traffic-light-program-using-while-loop-in-python) |
-
 ### [Kesepakatan Variabel](https://github.com/dinagoethe/pengkom/blob/main/tb/var.md)
 Setiap anggota dalam membuat bagan dan program .py harus menggunakan variabel yang sesuai dengan kesepakatan. Apabila ada tambahan variabel dapat memberi tahu kepada anggota yang lain dan memberti keterangan variabel baru yang bersangkutan.
 
@@ -23,8 +16,6 @@ Setiap anggota dalam membuat bagan dan program .py harus menggunakan variabel ya
   - Proses
   - Output
 3. Membuat pseudocode/flowchart
-
-
 `Note : Harus menggambarkan interaksi dengan penggunananya.`
 
 ## [Tugas 3 (Write the Program)](https://github.com/dinagoethe/pengkom/blob/main/tb/pseudo.md)

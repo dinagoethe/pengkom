@@ -1,5 +1,4 @@
 # Deskripsi Kerja Tugas Besar Pengkom
-`urutan kerja : 1 s.d. 8 `
 
 ```
 Keterangan kebutuhan anggota : 
@@ -36,7 +35,7 @@ Keterangan kebutuhan anggota :
 - Menggabungkan *flowchart* sederhana menjadi keseluruhan.
 - [Syarat](https://github.com/dinagoethe/pengkom/blob/main/tb/var.md) : penulisan variabel harus disepakati agar tidak membingungkan anggota yang lain ketika membuat program.
 
-### 4. *Psedocode* (**)
+### 4. *Psedocode* (**) `SR`
 **Deskripsi** : Pembuatan *psedocode* biasanya dikhususkan untuk beberapa kasus yang memerlukan banyak hitungan dan rumus yang sekiranya sulit jika dituliskan dalam bentuk *flwochart*. 
 
 **Tugas** :
@@ -45,7 +44,7 @@ Keterangan kebutuhan anggota :
 - Menggabungkan *pseudocode*.
 - [Syarat](https://github.com/dinagoethe/pengkom/blob/main/tb/var.md) : penulisan variabel harus disepakati agar tidak membingungkan anggota yang lain ketika membuat program.
 
-### 5. Coding (***)
+### 5. Coding (***) `MT` `SR` `FA`
 **Deskripsi** : Pengaplikasian diagram alur proses (*flowchart* dan *psedocode*) ke bahasa pemrograman python.
 
 **Tugas** :
@@ -53,28 +52,27 @@ Keterangan kebutuhan anggota :
 - Menggabungkan semua bagian koding yang terpisah dalam satu file.py setelah semua bagian berhasil dijalankan.
 - [Syarat](https://github.com/dinagoethe/pengkom/blob/main/tb/var.md) : penulisan variabel harus disepakati agar tidak membingungkan anggota yang lain ketika membuat program.
 
-### 6. Laporan Akhir (**)
+### 6. Laporan Akhir (**) `MT` `FA`
 **Deskripsi** : Menulis laporan berdasarkan [format penulisan](https://github.com/dinagoethe/pengkom/blob/main/tb/desc.md)
 
 **Tugas** : 
 - Menulis laporan runut
 - Memperbaiki layout laporan 
 
-### 7. Presentasi (**) `AN` `VK`
-**Deskripsi** : 
-
+### 7. Slide Presentasi (**) `AN` `VK`
 **Tugas** :
 - Isi ppt berdasarkan laporan akhir
 - Desain layout ppt
 
-### 8. Finishing (**) `SR`
+### 8. Edit Video 
+**Tugas**
+- 
+
+### 9. Presentasi
+- 
+
+### Finishing (**) `SR`
 **Tugas** :
 - Pengecekan akhir
 - Pengumpulan tugas
 - Pengarsipan (di github aja biar terpusat)
-
-### 
-**Deskripsi**
-**Tugas**
-
-

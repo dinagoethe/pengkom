@@ -13,7 +13,7 @@ Pemisahan program perlu dilakukan agar memudahkan penulisan program:
 
 **2. Fase 2:** Penyebrangan pejalan kaki (**done**, [source code](https://github.com/dinagoethe/pengkom/blob/main/tb/revisi/programjadi_penyebrangan.md))
 
-**3. Fase 3:** Persimpangan
+**3. Fase 3:** Persimpangan (**done**, [source code](https://github.com/dinagoethe/pengkom/blob/main/tb/revisi/persimpangan.md))
 
 ## Deskripsi dan alur masalah baru:
 **1. Penyebrangan** 
@@ -30,7 +30,7 @@ Pemisahan program perlu dilakukan agar memudahkan penulisan program:
 ## Dekomposisi masalah baru
 | Masalah | Ide penyelesaian | Referensi |
 | ------- | ---------------- | --------- |
-| Pergantian nyala lampu setiap persimpangan | menggunakan matriks (array). Matriks 4x3 untuk setiap ruas jalan. |[Python-Matrix](https://www.tutorialspoint.com/python_data_structure/python_matrix.htm)
+| Pergantian nyala lampu setiap persimpangan | menggunakan matriks (array) dan tabel |[Python-Matrix](https://www.tutorialspoint.com/python_data_structure/python_matrix.htm)
 | Kondisi kendaraan pada setiap nyala lampu | menggunakan *if conditional* ||
 | Lama lampu menyala, hitung mundur | menggunakan *countdown timer* atau pencacahan mundur dengan mengimpor `import time` | [How To Create a Countdown Timer Using Python?](https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/) |
 | Agar lampu lalin tetap berjalan terus | menggunakan looping | [Ref](https://github.com/dinagoethe/pengkom/blob/main/tb/source.md); [Traffic light program using while loop in python](https://stackoverflow.com/questions/48197670/traffic-light-program-using-while-loop-in-python) |

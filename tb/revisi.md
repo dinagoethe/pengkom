@@ -8,19 +8,19 @@ Program lampu lalu lintas kami perlu ditambahkan masalah yang lebih kompleks sep
 4. Mendeteksi kemacetan (ini sudah diluar kemampuan lampu lalin, sudah masuknya program lain yang membutuhkan sensor)
 
 Pemisahan program perlu dilakukan agar memudahkan penulisan program: 
-1. Fase 1: Ruas satu jalan (done, [source code](https://github.com/dinagoethe/pengkom/blob/main/tb/program_jadi.md))
-2. Fase 2: Penyebrangan pejalan kaki (done, [source code](https://github.com/dinagoethe/pengkom/blob/main/tb/revisi/programjadi_penyebrangan.md))
-3. Fase 3: Persimpangan
+**1. Fase 1:** Satu ruas jalan (done, [source code](https://github.com/dinagoethe/pengkom/blob/main/tb/program_jadi.md))
+**2. Fase 2:** Penyebrangan pejalan kaki (done, [source code](https://github.com/dinagoethe/pengkom/blob/main/tb/revisi/programjadi_penyebrangan.md))
+**3. Fase 3:** Persimpangan
 
 ## Deskripsi dan alur masalah baru:
-1. Penyebrangan 
+**1. Penyebrangan** 
   - Memberhentikan sejenak loop lampu lalu lintas yang sudah berjalan
   - Menunggu sejenak pergantian lampu penyebrangan
   - Menghitung mundur waktu pejalan kaki menyebrang 
   - Kembali ke loop utama 
   - Program dapat diinterupsi kembali saat lampu hijau
 
-2. Persimpangan
+**2. [Persimpangan](https://github.com/dinagoethe/pengkom/blob/main/tb/revisi/pseudo_persimpangan.md)**
   - Membuat animasi persimpangan (jika bisa)
   - Menentukan ruas jalan yang mana saja yang sedang berjalan atau tidak
 
@@ -32,3 +32,21 @@ Pemisahan program perlu dilakukan agar memudahkan penulisan program:
 | Lama lampu menyala, hitung mundur | menggunakan *countdown timer* atau pencacahan mundur dengan mengimpor `import time` | [How To Create a Countdown Timer Using Python?](https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/) |
 | Agar lampu lalin tetap berjalan terus | menggunakan looping | [Ref](https://github.com/dinagoethe/pengkom/blob/main/tb/source.md); [Traffic light program using while loop in python](https://stackoverflow.com/questions/48197670/traffic-light-program-using-while-loop-in-python) |
 | Giliran penyebrangan untuk pejalan kaki | menggunakan perintah `keyboardInterrupt` dan CTRL+C | [Python: how to interrupt, then return to while loop, without goto?](https://stackoverflow.com/questions/33273930/python-how-to-interrupt-then-return-to-while-loop-without-goto)
+
+## Pembagian Tugas Presentasi Video
+| Slide | Materi | Presenter |
+| ----- | ------ | --------- |
+| | Intro | |
+| | Perkenalan | semua |
+| | Latar Belakang | |
+| | Tujuan | | 
+| | Fungsi lampu lalin | | 
+| | Dekomposisi Masalah | |
+| | Flowchart | |
+| | Program Bagian 1 (Penyebrangan pada 1 ruas jalan) | |
+| | Simulasi Bagian 1 | |
+| | Program Bagian 2 | |
+| | Simulasi Bagian 2 | |
+| | Kesimpulan | |
+| | *Lesson Learned* atau kesan pesan | semua |
+| | Outro | |

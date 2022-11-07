@@ -1,7 +1,7 @@
 # Tugas Besar Pengkom 2022
 `Topik : Program Lampu Lalu Lintas`
 
-# [Revisi](https://github.com/dinagoethe/pengkom/blob/main/tb/revisi.md)
+# [Revisi](https://github.com/dinagoethe/pengkom/blob/main/tb/revisi/revisi.md)
 ## Tugas 1 (Idea and Storyboard)
 1. Deskripsi cara kerja sistem
 2. Dekomposisi masalah

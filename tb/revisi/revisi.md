@@ -51,5 +51,5 @@ Pemisahan program perlu dilakukan agar memudahkan penulisan program:
 | | Program Bagian 2 (persimpangan) | `SR` |
 | | Simulasi Bagian 2 | `SR` |
 | | Kesimpulan | |
-| | *Lesson Learned* atau kesan pesan | semua |
+| | *Lesson Learned* atau kesan pesan | |
 | | Outro | `SR` |

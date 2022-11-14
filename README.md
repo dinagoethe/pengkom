@@ -6,6 +6,8 @@
 
 ## TUGAS KELAS (6 Soal)
 1. [Array -- deadline 25/10/22](https://drive.google.com/file/d/1CFKugUNyo6HHc0MGve69U930PvDiaOLo/view?usp=sharing)
+2. [Pandas -- deadline 16/11/22, 07:00 WIB](https://drive.google.com/file/d/12y2m2URinscfC9GO6DZte258FPHH57Vg/view?usp=share_link); 
+[sumber data](https://drive.google.com/drive/folders/1qr8DeptHtvWFtw_gNV2-2hd0Wd6iohnq?usp=sharing)
 
 ## Tugas pendahuluan
 #### Python

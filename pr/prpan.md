@@ -1,5 +1,6 @@
 Aku ga kasih semua disini, karena yg lainnya itu mirip2 dan benar2 tinggal kopas dari [pdf ibunya](https://drive.google.com/file/d/12y2m2URinscfC9GO6DZte258FPHH57Vg/view?usp=share_link). Dan tinggal ganti beberapa variabelnya. Bener kata ibu, ini modul yg ga seberat kemarin2. Ayo latihan ngulik sendiri ya...
 
+btw 'header' itu kolom nya, kyk 'bronze', 'gold', dll.
 ## Latihan 1
 ![](https://github.com/dinagoethe/pengkom/blob/main/pr/WhatsApp%20Image%202022-11-15%20at%2016.37.05.jpeg)
 

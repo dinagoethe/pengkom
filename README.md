@@ -24,4 +24,5 @@
 3. [P03 (24/10/2022)](https://github.com/dinagoethe/pengkom/blob/main/praktikum/p03.md)
 
 ## Tugas Besar
-1. [Detail](https://github.com/dinagoethe/pengkom/blob/main/tb/desc.md)
+1. [Lampu Lali Lintas](https://github.com/dinagoethe/pengkom/blob/main/tb/desc.md)
+2. [Data Analisis](https://github.com/dinagoethe/pengkom/blob/main/tb/dtanalis/desc2.md)

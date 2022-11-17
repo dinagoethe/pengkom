@@ -31,6 +31,7 @@ Tool | Jupyter-notebook & pandas
 
 ### 5. Atribut
 
+
 | Nama atribut | Jenis | |Karakteristik | Sintaks/bahasa pemrograman | Penjelasan |
 | ------------ | ----- | -------------- | -------------------------- | ---------- |
 | Tahun | kuantitatif | range? persen data yg kosong? | sorting, exremum, dll. |  |

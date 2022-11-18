@@ -20,6 +20,9 @@
 #### Matlab
 1. [Matlab -- khusus FTMD](https://drive.google.com/file/d/10EizsK63e9LO7HpRqq4Fo8GoS7DJBW-S/view?usp=drivesdk)
 
+#### Pembahasan
+1. 
+
 ## Praktikum
 1. [P01 (26/09/2022)](https://github.com/dinagoethe/dinagoethe.github.io/blob/master/pk/praktek1.md)
 2. [P02 (10/10/2022)](https://github.com/dinagoethe/pengkom/blob/main/praktikum/P02.md)

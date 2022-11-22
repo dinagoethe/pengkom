@@ -21,7 +21,7 @@ Referensi sumber:
 ## Deskripsi
 Apa yang ingin diketahui dari data tsb?
 1. [Data Timbulan Sampah](https://github.com/dinagoethe/pengkom/blob/main/tb/dtanalis/timbulan.md)
-2. [Data Komposisi Jenis Sampah]()
+2. [Data Komposisi Jenis Sampah](https://github.com/dinagoethe/pengkom/blob/main/tb/dtanalis/kom_jenis.md)
 3. [Data Komposisi Sumber Sampah]()
 
 

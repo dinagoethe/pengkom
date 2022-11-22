@@ -2,6 +2,7 @@
 
 1. Provinsi dengan timbulan sampah paling banyak/sedikit dalam setiap tahun
 contoh output:
+
 | Tahun | Provinsi |
 | ----- | -------- |
 | 2018 | A |

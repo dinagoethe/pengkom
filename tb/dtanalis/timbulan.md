@@ -37,4 +37,4 @@ contoh output:
 | Kota/Kab | Timbulan Sampah Harian |
 | ----- | -------- |
 
-Untuk [Statistika]()
+Untuk [Statistika](https://github.com/dinagoethe/pengkom/blob/main/tb/dtanalis/desc2.md) samakan sama dengan poin 6 dan 7.

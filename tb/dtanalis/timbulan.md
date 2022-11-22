@@ -42,4 +42,4 @@ contoh output:
 | ----- | -------- |
 | | |
 
-Untuk [Statistika](https://github.com/dinagoethe/pengkom/blob/main/tb/dtanalis/desc2.md) samakan sama dengan poin 6 dan 7.
+Untuk [Statistika](https://github.com/dinagoethe/pengkom/blob/main/tb/dtanalis/desc2.md) dan visualisasi samakan sama dengan poin 6 dan 7.

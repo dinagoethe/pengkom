@@ -21,11 +21,14 @@ atau:
 
 2. Provinsi dengan timbulan sampah paling banyak/sedikit dalam harian
 contoh output:
+
 | Provinsi | Timbulan Sampah Harian |
 | ----- | -------- |
+| | |
 
 3. Kota/Kabupaten timbulan sampah paling banyak/sedikit dalam setiap tahun
 contoh output:
+
 | Tahun | Kota/kab |
 | ----- | -------- |
 | 2018 | A |
@@ -34,7 +37,9 @@ contoh output:
 | 2021 | D |
 
 4. Kota/kab dengan timbulan sampah paling banyak/sedikit dalam harian
+
 | Kota/Kab | Timbulan Sampah Harian |
 | ----- | -------- |
+| | |
 
 Untuk [Statistika](https://github.com/dinagoethe/pengkom/blob/main/tb/dtanalis/desc2.md) samakan sama dengan poin 6 dan 7.

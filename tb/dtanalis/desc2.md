@@ -2,7 +2,11 @@
 `Topik : Data Analisis`
 
 ## Sumber Data
-Deskripsi singkat: data yang digunakan tentang...
+1. [Data Timbulan Sampah](https://docs.google.com/spreadsheets/d/1eu4DChuI-Z_LJTgsH58Yt-Y6GNf3EO8E/edit?usp=share_link&ouid=102172680674629401624&rtpof=true&sd=true)
+2. [Data Komposisi Jenis Sampah](https://docs.google.com/spreadsheets/d/15SM4u2lZewoC8J5A5VG4IGOpbUC4zA2P/edit?usp=share_link&ouid=102172680674629401624&rtpof=true&sd=true)
+3. [Data Komposisi Sumber Sampah](https://docs.google.com/spreadsheets/d/1B7xMx9-5Q4eOmw8Vp4-KzMG2MAzuIZa5/edit?usp=share_link&ouid=102172680674629401624&rtpof=true&sd=true)
+
+Deskripsi singkat: data yang digunakan tentang penimbunan sampah dan jenisnya dalam skala nasional selama rentang waktu 4 tahun (2018-2021).
 Ketentuan data: 
 - Minimal 5 kolom
 - Minimal 60 baris
@@ -15,8 +19,12 @@ Referensi sumber:
 - [Satu Data Indonesia](https://data.go.id/home)
 
 ## Deskripsi
-1. Tentang apa?
-2. Apa yang ingin diketahui dari data tsb?
+Apa yang ingin diketahui dari data tsb?
+1. [Data Timbulan Sampah](https://github.com/dinagoethe/pengkom/blob/main/tb/dtanalis/timbulan.md)
+2. [Data Komposisi Jenis Sampah]()
+3. [Data Komposisi Sumber Sampah]()
+
+
 ### 3. Tentang data
 
 Tentang data | Jawab

@@ -1,4 +1,6 @@
 ## Hal-hal yang ingin diketahui dari Data Komposisi Jenis Sampah
+### [Sumber data](https://docs.google.com/spreadsheets/d/15SM4u2lZewoC8J5A5VG4IGOpbUC4zA2P/edit?usp=share_link&ouid=102172680674629401624&rtpof=true&sd=true)
+
 1. Jenis sampah yang paling banyak di setiap tahun (2018,19,20,21)
 2. Jenis sampah yang paling sedikit
 3. Kota dengan jenis (ttt) sampah paling banyak

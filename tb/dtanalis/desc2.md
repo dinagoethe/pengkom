@@ -27,20 +27,20 @@ Apa yang ingin diketahui dari data tsb?
 
 ### 3. Tentang data
 
-Tentang data | Jawab
-| ------ | -----|
-Format data |
-Kolom | 
-Baris | 
-Ukuran file |
-Tool | Jupyter-notebook & pandas
+| Tentang data | Jawab |
+| ------------ | ----- |
+| Format data | |
+| Kolom | |
+| Baris | |
+| Ukuran file | |
+| Tool | Jupyter-notebook & pandas |
 
 ### 4. Bagaimana mengetahui berbagai informasi yang terkait dengan data?
 
 ### 5. Atribut
 
 
-| Nama atribut | Jenis | |Karakteristik | Sintaks/bahasa pemrograman | Penjelasan |
+| Nama atribut | Jenis | Karakteristik | Sintaks/bahasa pemrograman | Penjelasan |
 | ------------ | ----- | -------------- | -------------------------- | ---------- |
 | Tahun | kuantitatif | range? persen data yg kosong? | sorting, exremum, dll. |  |
 

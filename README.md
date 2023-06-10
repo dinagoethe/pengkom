@@ -18,18 +18,18 @@
 5. [TP05_PY](https://drive.google.com/drive/folders/1YN1r4y37hVqt2DcwkaMOSY4lxQBhdHIT?usp=sharing)
 
 #### Jawaban
-1. [TP01_212]()
-2. [TP01_212]()
-3. [TP01_212]()
-4. [TP01_212]()
-5. [TP01_212]()
+1. [TP01_212](https://github.com/dinagoethe/pengkom/tree/main/Jawaban%20TP_212/TP01)
+2. [TP02_212](https://github.com/dinagoethe/pengkom/tree/main/Jawaban%20TP_212/TP02)
+3. [TP03_212](https://github.com/dinagoethe/pengkom/tree/main/Jawaban%20TP_212/TP03)
+4. [TP04_212](https://github.com/dinagoethe/pengkom/tree/main/Jawaban%20TP_212/TP04)
+5. [TP05_212]()
 
 #### Pembahasan asisten
-1. []()
-2. []()
-3. []()
-4. []()
-5. []()
+1. [TP01_AS]()
+2. [TP02_AS]()
+3. [TP03_AS]()
+4. [TP04_AS]()
+5. TP05 tidak ada pembahasan dari asisten
 
 ## Praktikum
 1. [P01 (26/09/2022)](https://github.com/dinagoethe/dinagoethe.github.io/blob/master/pk/praktek1.md)

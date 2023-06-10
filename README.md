@@ -25,10 +25,10 @@
 5. [TP05_212]()
 
 #### Pembahasan asisten
-1. [TP01_AS]()
-2. [TP02_AS]()
-3. [TP03_AS]()
-4. [TP04_AS]()
+1. [TP01_AS](https://github.com/dinagoethe/pengkom/tree/main/Pembahasan/TP01)
+2. [TP02_AS](https://github.com/dinagoethe/pengkom/tree/main/Pembahasan/TP02)
+3. [TP03_AS](https://github.com/dinagoethe/pengkom/tree/main/Pembahasan/TP03)
+4. [TP04_AS](https://github.com/dinagoethe/pengkom/tree/main/Pembahasan/TP04)
 5. TP05 tidak ada pembahasan dari asisten
 
 ## Praktikum

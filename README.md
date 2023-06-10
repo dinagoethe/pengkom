@@ -10,15 +10,26 @@
 [sumber data](https://drive.google.com/drive/folders/1qr8DeptHtvWFtw_gNV2-2hd0Wd6iohnq?usp=sharing)
 
 ## Tugas pendahuluan
-#### Python
+#### Soal
 1. [TP01_PY](https://drive.google.com/file/d/10EpGvNo2cfC0MxfcRSRl_f-FlPASFt72/view?usp=drivesdk)
 2. [TP02_PY](https://drive.google.com/file/d/1PmydGRV4gJYR3sxr4kXKiZBVkQI9a-Kl/view?usp=sharing)
 3. [TP03_PY](https://drive.google.com/file/d/1poYRkKv6eBaiVg6jkgMxPcD8QuDpaIAt/view?usp=sharing)
 4. [TP04_PY](https://drive.google.com/file/d/1_rOTDgW7cpbE604cBzl8ZUlZbjfucG0w/view?usp=share_link)
 5. [TP05_PY](https://drive.google.com/drive/folders/1YN1r4y37hVqt2DcwkaMOSY4lxQBhdHIT?usp=sharing)
 
-#### Matlab - Khusus FTMD
-1. [Matlab](https://drive.google.com/file/d/10EizsK63e9LO7HpRqq4Fo8GoS7DJBW-S/view?usp=drivesdk)
+#### Jawaban
+1. [TP01_212]()
+2. [TP01_212]()
+3. [TP01_212]()
+4. [TP01_212]()
+5. [TP01_212]()
+
+#### Pembahasan asisten
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
 
 ## Praktikum
 1. [P01 (26/09/2022)](https://github.com/dinagoethe/dinagoethe.github.io/blob/master/pk/praktek1.md)
